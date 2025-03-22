@@ -70,3 +70,4 @@ In this project, Amazon S3 🌍📡 was used to host a static website by enablin
 
 ## ✅ Conclusion
 🎉🔑 After configuring the required permissions 🔐✅, the website 🌎🌍 was successfully hosted 🏆🎯 on Amazon S3 🚀🔥.. This project demonstrated how to set up, configure, and troubleshoot an S3-hosted static website.
+*  https://venkatanjan91.github.io/Hosting-website-on-Amazon-S3/
